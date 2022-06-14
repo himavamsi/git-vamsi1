@@ -1,1 +1,2 @@
 this is to learn git repository
+now we are testing git status.
