@@ -1,2 +1,3 @@
-this is to learn git repository
+this is to learn git repo
 now we are testing git status.
+vamsi
